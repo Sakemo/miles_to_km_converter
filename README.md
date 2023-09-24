@@ -37,3 +37,6 @@ O ponto de entrada principal do programa é o bloco `if __name__ == "__main__"`,
 Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório e enviar pull requests com melhorias ou correções. Estamos abertos a sugestões e colaborações!
 
 Esperamos que este aplicativo de conversão seja útil e eficaz para você. Divirta-se convertendo milhas em quilômetros!
+
+### Créditos
+Este projeto foi desenvolvido por King | Alex K.M. Chaves.
