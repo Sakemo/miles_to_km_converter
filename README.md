@@ -41,7 +41,7 @@ Esperamos que este aplicativo de conversão seja útil e eficaz para você. Divi
 ### Créditos
 Este projeto foi desenvolvido por King | Alex K.M. Chaves.
 
-### English - EUA
+### English - USA
 # Miles to Kilometers - Converter
 
 This is a simple miles to miles conversion app created using the Tkinter library in Python. provides a user-friendly graphical interface that allows the user to enter an amount in miles and convert it to miles.
